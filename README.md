@@ -5,10 +5,6 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/2UxWBIttMvvIJ55hTe/giphy.gif" width="500"/>
-</p>
----
 
 ### 👨‍💻 About Me
 
