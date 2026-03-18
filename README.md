@@ -20,10 +20,8 @@
 * 📊 Focused on improving **developer experience**, system reliability, and operational efficiency through well-designed pipelines and tooling.
 * 🌌 "Imagination will often carry us to worlds that never were. But without it we go nowhere.” ~ Carl Sagan
 * Passionate about astronomy and the cosmos — I also host a podcast where I explore space and science topics:
-🎧 Listen here:
-<a href="https://open.spotify.com/user/jom9get12kpcvuyj997a9pxu1?si=8faff6c5f8ba4991" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spotify/spotify-original.svg" width="40" height="40"/>
-</a>
+  🎧 Listen here:
+  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/jom9get12kpcvuyj997a9pxu1?si=8faff6c5f8ba4991)
 
 ---
 
