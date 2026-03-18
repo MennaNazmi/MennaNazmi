@@ -12,10 +12,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently focused on: DevOps manily on CI/CD pipeline ( DevOps ⚙️)
-- 💻 Love building clean, scalable, production-ready apps
-- 📖 Always diving into docs like it’s my daily newspaper 📰
-- 🌌 "Imagination will often carry us to worlds that never were. But without it we go nowhere.” ~ Carl Sagan
+* 🔭 Currently focused on designing and optimizing **CI/CD pipelines**, with a strong emphasis on automation, scalability, and reliability across production environments.
+* ⚙️ Experienced in DevOps practices including **Infrastructure as Code (IaC)**, containerization, and cloud-native deployments, aiming to streamline workflows and eliminate repetitive manual processes.
+* 💻 Passionate about building **clean, scalable, and production-ready systems**, ensuring high availability, performance, and maintainability.
+* 🚀 Continuously working on **reducing manual effort** by automating deployments, testing, and monitoring, enabling faster and more consistent delivery cycles.
+* 📖 Strong believer in continuous learning — regularly exploring official documentation, best practices, and emerging tools to stay aligned with modern DevOps standards.
+* 📊 Focused on improving **developer experience**, system reliability, and operational efficiency through well-designed pipelines and tooling.
+* 🌌 "Imagination will often carry us to worlds that never were. But without it we go nowhere.” ~ Carl Sagan
 
 ---
 
