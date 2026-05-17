@@ -7,13 +7,13 @@
 
 
 ### 👨‍💻 About Me
-🔭 Currently leading automation initiatives and driving quality engineering strategies to improve testing efficiency, scalability, and delivery reliability across projects.
-⚙️ Experienced in building and maintaining robust test automation frameworks, integrating automated testing into CI/CD workflows, and enhancing overall software quality processes.
-💻 Passionate about delivering scalable, maintainable, and high-quality solutions by combining strong automation practices with effective team leadership and collaboration.
-🚀 Focused on reducing manual effort through intelligent automation of testing, validation, reporting, and operational workflows to accelerate release cycles and improve consistency.
-👥 As a Team Lead Automation Engineer, I enjoy mentoring engineers, defining best practices, reviewing automation architecture, and fostering a culture of continuous improvement.
-📖 Strong believer in continuous learning — regularly exploring modern testing methodologies, automation tools, and industry best practices to stay aligned with evolving technologies.
-📊 Dedicated to improving product quality, team productivity, and engineering efficiency through reliable automation strategies and data-driven decision making.
+* 🔭 Currently leading automation initiatives and driving quality engineering strategies to improve testing efficiency, scalability, and delivery reliability across projects.
+* ⚙️ Experienced in building and maintaining robust test automation frameworks, integrating automated testing into CI/CD workflows, and enhancing overall software quality processes.
+* 💻 Passionate about delivering scalable, maintainable, and high-quality solutions by combining strong automation practices with effective team leadership and collaboration.
+* 🚀 Focused on reducing manual effort through intelligent automation of testing, validation, reporting, and operational workflows to accelerate release cycles and improve consistency.
+* 👥 As a Team Lead Automation Engineer, I enjoy mentoring engineers, defining best practices, reviewing automation architecture, and fostering a culture of continuous improvement.
+* 📖 Strong believer in continuous learning — regularly exploring modern testing methodologies, automation tools, and industry best practices to stay aligned with evolving technologies.
+* 📊 Dedicated to improving product quality, team productivity, and engineering efficiency through reliable automation strategies and data-driven decision making.
 * 🌌 "Imagination will often carry us to worlds that never were. But without it we go nowhere.” ~ Carl Sagan
 * Passionate about astronomy and the cosmos — I also host a podcast where I explore space and science topics:
   <br><br>
