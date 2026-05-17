@@ -1,19 +1,19 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Menna+Nazmi;DevOps+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=25&color=EE82EE">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Menna+Nazmi;Automation+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=25&color=EE82EE">
   </a>
 </h1>
 
 
 
 ### 👨‍💻 About Me
-
-* 🔭 Currently focused on designing and optimizing **CI/CD pipelines**, with a strong emphasis on automation, scalability, and reliability across production environments.
-* ⚙️ Experienced in DevOps practices including **Infrastructure as Code (IaC)**, containerization, and cloud-native deployments, aiming to streamline workflows and eliminate repetitive manual processes.
-* 💻 Passionate about building **clean, scalable, and production-ready systems**, ensuring high availability, performance, and maintainability.
-* 🚀 Continuously working on **reducing manual effort** by automating deployments, testing, and monitoring, enabling faster and more consistent delivery cycles.
-* 📖 Strong believer in continuous learning — regularly exploring official documentation, best practices, and emerging tools to stay aligned with modern DevOps standards.
-* 📊 Focused on improving **developer experience**, system reliability, and operational efficiency through well-designed pipelines and tooling.
+🔭 Currently leading automation initiatives and driving quality engineering strategies to improve testing efficiency, scalability, and delivery reliability across projects.
+⚙️ Experienced in building and maintaining robust test automation frameworks, integrating automated testing into CI/CD workflows, and enhancing overall software quality processes.
+💻 Passionate about delivering scalable, maintainable, and high-quality solutions by combining strong automation practices with effective team leadership and collaboration.
+🚀 Focused on reducing manual effort through intelligent automation of testing, validation, reporting, and operational workflows to accelerate release cycles and improve consistency.
+👥 As a Team Lead Automation Engineer, I enjoy mentoring engineers, defining best practices, reviewing automation architecture, and fostering a culture of continuous improvement.
+📖 Strong believer in continuous learning — regularly exploring modern testing methodologies, automation tools, and industry best practices to stay aligned with evolving technologies.
+📊 Dedicated to improving product quality, team productivity, and engineering efficiency through reliable automation strategies and data-driven decision making.
 * 🌌 "Imagination will often carry us to worlds that never were. But without it we go nowhere.” ~ Carl Sagan
 * Passionate about astronomy and the cosmos — I also host a podcast where I explore space and science topics:
   <br><br>
